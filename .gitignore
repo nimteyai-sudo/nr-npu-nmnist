@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+models/nmnist/NMNIST/
+models/nmnist/nmnist_train/
+models/nmnist/nmnist_test/
+models/nmnist/*.npy

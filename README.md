@@ -74,3 +74,16 @@ Students, startups, engineers. Without multi‑thousand‑dollar investments.
 - Drones become an order of magnitude cheaper. Wearable medical devices become practical. Industrial AI can be distributed across machines without central servers.
 
 **This is the best engineering solution for neuromorphic computing on a mass‑market NPU. The technology cuts costs in drone engineering, unlocks new possibilities in health monitoring and diagnostics, and makes spiking networks accessible to everyone.**
+
+
+
+
+
+
+
+
+
+
+
+
+<sub>special thanks to Denis and his capacitors for saving the single-board computer from burning during training</sub>

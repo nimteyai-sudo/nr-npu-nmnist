@@ -86,4 +86,4 @@ Students, startups, engineers. Without multi‑thousand‑dollar investments.
 
 
 
-<sub>special thanks to Denis and his capacitors for saving the single-board computer from burning during training</sub>
+<sub>special thanks to Denis and his kupats (sausages) for saving the single-board computer from burning during training</sub>
